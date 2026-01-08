@@ -18,7 +18,7 @@ with c2:
             , unsafe_allow_html=True)
 
 # -------------------- 用户库 --------------------
-USER_DB = {"cyan": "Qaz@123", "vrpnl": "vrpnl123"}
+USER_DB = {"cyan": "Cyan@123", "vrpnl": "vrpnl123"}
 
 # -------------------- session_state 初始化 --------------------
 for key, val in {"logged_in": False, "username": "", "img": None}.items():
